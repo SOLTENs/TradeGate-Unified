@@ -12,5 +12,6 @@
   "setup": [
     "W5"
   ],
-  "stf": 20
+  "stf": 20,
+  "copiedToReal": true
 }
