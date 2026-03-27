@@ -12,5 +12,8 @@
   "setup": [
     "Dk"
   ],
-  "stf": 215
+  "stf": 215,
+  "qualitySetup": [
+    "MA/SMA cross kis-k"
+  ]
 }
