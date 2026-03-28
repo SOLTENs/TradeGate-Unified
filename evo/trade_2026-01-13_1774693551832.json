@@ -14,5 +14,7 @@
   ],
   "stf": 30,
   "qualitySetup": null,
-  "wrongSetup": null
+  "wrongSetup": [
+    "hibás C1"
+  ]
 }
