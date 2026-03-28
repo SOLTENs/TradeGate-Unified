@@ -13,5 +13,8 @@
     "W5"
   ],
   "stf": 30,
-  "qualitySetup": null
+  "qualitySetup": null,
+  "wrongSetup": [
+    "hibás RSI alakzat"
+  ]
 }
