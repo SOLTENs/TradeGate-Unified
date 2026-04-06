@@ -13,6 +13,8 @@
     "W5"
   ],
   "stf": 10,
-  "qualitySetup": null,
+  "qualitySetup": [
+    "STF csúzli"
+  ],
   "wrongSetup": null
 }
