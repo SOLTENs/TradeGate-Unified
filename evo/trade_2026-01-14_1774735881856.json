@@ -14,5 +14,6 @@
   "qualitySetup": null,
   "wrongSetup": [
     "hibás RSI alakzat"
-  ]
+  ],
+  "copiedToReal": true
 }
