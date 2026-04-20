@@ -14,5 +14,6 @@
   ],
   "stf": 36,
   "qualitySetup": null,
-  "wrongSetup": null
+  "wrongSetup": null,
+  "bigWin": true
 }
