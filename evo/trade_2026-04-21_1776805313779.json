@@ -16,5 +16,6 @@
   "qualitySetup": [
     "MA/SMA cross kis-k"
   ],
-  "wrongSetup": null
+  "wrongSetup": null,
+  "copiedToReal": true
 }
