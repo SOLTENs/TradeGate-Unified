@@ -7,14 +7,14 @@
   "data": {
     "HTF POI": "likviditás söprés",
     "Extra körülmény": "nincs",
-    "Kötés ellen": "csúzli, trenddel szemben, HTF likviditás, HTF BOS visszateszt"
+    "Kötés ellen": "HTF csúzli, trenddel szemben, HTF likviditás, HTF BOS visszateszt"
   },
   "setup": [
     "NPNP"
   ],
   "wrongSetup": [
-    "hibás alárendelt RSI alakzat",
-    "hibás kis-k"
+    "hibás kis-k",
+    "hibás RSI alakzat"
   ],
   "qualitySetup": null,
   "stf": 36,
