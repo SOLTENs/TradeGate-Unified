@@ -14,5 +14,6 @@
   ],
   "stf": 15,
   "qualitySetup": null,
-  "wrongSetup": null
+  "wrongSetup": null,
+  "copiedToReal": true
 }
