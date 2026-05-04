@@ -13,7 +13,9 @@
     "ss+"
   ],
   "stf": 15,
-  "qualitySetup": null,
+  "qualitySetup": [
+    "MA/SMA cross kis-k"
+  ],
   "wrongSetup": null,
   "copiedToReal": true
 }
